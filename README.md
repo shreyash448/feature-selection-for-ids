@@ -1,4 +1,4 @@
-README
+
 Overview
 This Jupyter notebook (idsColl.ipynb) provides a detailed analysis of the UNSW-NB15 dataset and implements a multilayered feature selection process for an intrusion detection system (IDS). The notebook leverages Pearson correlation for feature selection and presents experimental results using a Decision Tree model.
 
